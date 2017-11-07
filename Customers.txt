@@ -1,0 +1,10 @@
+Bette	Davis	davisb@thomas.edu	Lowell	MA
+Paula	Gallucio	galluc@thomas.edu	Philadelphia	PA
+Deb	Brzezinski	breezyd@aol.com	Castle Shannon	PA
+Fred	Rogers	neighbor@wqed.org	Pittsburgh	PA
+Daniel	Tiger	daniel.tiger@thomas.edu	Evanston	IL
+David	Addison	addison@bluemoon.net	Penns Grove	NJ
+Madelyn	Hayes	hayes@bluemoon.net	Los Angeles	CA
+Ted	Brogan	audi5000@brogan.net	Watertown	NY
+Anna	Lopez	lopeza@epix.com	Blandon	PA
+Bob	Sacamano	scamanob@thomas.edu	Queens	NY
